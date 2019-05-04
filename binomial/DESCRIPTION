@@ -1,0 +1,9 @@
+Package: binomial
+Type: Package
+Title: Binomial Computation
+Version: 0.1.0
+Author: Jasmine Liu
+Maintainer: Jasmine Liu <jasmine_vliu@berkeley.edu>
+Description: Functions to compute binomial probabilities, list binomial random variables, plot binomial distributions, and display summary statistics for the distribution computed.
+License: GPL-2
+RoxygenNote: 6.1.1
